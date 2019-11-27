@@ -48,7 +48,7 @@ public class StuServiceImpl implements StuService {
     }
 
 
-
+    @Transactional(propagation = Propagation.NESTED)
     public void saveParent() {
         Stu stu = new Stu();
         stu.setName("parent");
@@ -56,11 +56,10 @@ public class StuServiceImpl implements StuService {
         stuMapper.insert(stu);
     }
 
-
-    //@Transactional(propagation = Propagation.REQUIRED)
+    @Transactional(propagation = Propagation.NESTED)
     public void saveChildren() {
         saveChild1();
-        int a = 1 / 0;
+//        int a = 1 / 0;
         saveChild2();
     }
 
