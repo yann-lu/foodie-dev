@@ -9,8 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.imooc.service.StuService;
 import com.imooc.service.TestTransService;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest(classes = Application.class)
+//@RunWith(SpringRunner.class)
+//@SpringBootTest(classes = Application.class)
 public class TransTest {
 
     @Autowired
@@ -19,7 +19,7 @@ public class TransTest {
     @Autowired
     private TestTransService testTransService;
 
-    @Test
+//    @Test
     public void myTest() {
 //        stuService.testPropagationTrans();
         testTransService.testPropagationTrans();
