@@ -12,6 +12,7 @@ import tk.mybatis.spring.annotation.MapperScan;
  * @version : Application.java, v0.1 2019/11/16 陆炎 Exp $$
  */
 @SpringBootApplication
+// 扫描 mybatis 通用 mapper 所在的包
 @MapperScan(basePackages = "com.imooc.mapper")
 public class Application {
 

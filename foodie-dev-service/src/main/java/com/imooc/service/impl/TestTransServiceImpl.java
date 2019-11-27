@@ -41,7 +41,7 @@ public class TestTransServiceImpl implements TestTransService {
     public void testPropagationTrans() {
         stuService.saveParent();
         stuService.saveChildren();
-        int j = 1 / 0;
+//        int j = 1 / 0;
     }
 //        try {
 //            // save point
