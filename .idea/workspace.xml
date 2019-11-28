@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3250195c-64fe-4dd1-80ef-6d55c4bc5da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/foodie-center/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/css/amazeui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/css/amazeui.flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/css/amazeui.flat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/css/amazeui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/app-icon72x72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/admin-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/admin-firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/admin-ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/admin-opera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/admin-safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/adminPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/blogPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/landing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/landingPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/loginPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/examples/sidebarPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/i/startup-640x1096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/amazeui.ie8polyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/amazeui.ie8polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/amazeui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/amazeui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/amazeui.widgets.helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/amazeui.widgets.helper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/handlebars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/AmazeUI-2.4.2/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/chongzhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/ibar_sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/logobar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/logobig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/no-img_mid_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/wdsc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/images/weixin_code_145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/js/jquery-1.7.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/js/jquery-1.9.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/basic/js/quick_links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/components/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/components/VuePaging/Vue_Pagination_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/components/VuePaging/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/components/VuePaging/zpageNav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/components/VuePaging/zpageNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/components/scrolllist.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/courses.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/douyin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/imooc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/weixin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/course/zk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/addstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/appstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/bilstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/blogstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/blstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/bostyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/cartstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/cmstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/colstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/cpstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/dlstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/footstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/hmstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/infstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/jsstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/lee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/lostyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/newstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/optstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/orstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/paysuccess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/refstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/seastyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/sortstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/stepstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/sustyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/systyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/css/wxpay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/doComment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/-0-saturn_solar.jpg_220x220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/0-item_pic.jpg_220x220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/01_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/01_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/02_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/02_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/03_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/03_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/1-item_pic.jpg_220x220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/1_160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/3CoOkxrFOP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/556.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/557.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/559.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/566.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/566fda5cN4b8a1675.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/62988.jpg_80x80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/65.jpg_120x120xz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/72h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/88.jpg_120x120xz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/T13iv.XiFdXXa94Hfd-32-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/TB102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/TB1SSK7JpXXXXXCXXXXXXXXXXXX-800-600.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/TB1_pic.jpg_200x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/TJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/TJ2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/YXARdXxj5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/act1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/act2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/act3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/activity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/activity1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/activity2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/activity3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ad8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/addbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/addicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/addicon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/addicon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/advTip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/blog09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/browse1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/cardbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/checkbox.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/chongzhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/clockbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/combo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/comment.jpg_400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/coupon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/coupon2015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/coupon20150805.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/couponli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/cp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/cp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/day-to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/extra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/getAvatar.do.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/gift_intro_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/gift_stamp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/gift_stamp_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/gift_stamp_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/gift_stamp_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/gift_stamp_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/header-bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/header-bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/header-bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/huismall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/hwbn40x40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/ibar_sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/icon-sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconfont-bad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconfont-badon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconfont-evaluate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconfont-good.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconfont-middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconsmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconsmall0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconsmall1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconsmall2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/iconsmall3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/imgsearch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/index_ico_png32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/item-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/kouhong.jpg_80x80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/kuaidi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/list1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/listsmall1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/logobig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/logobig1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/logobig2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/mansmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/moneysmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/mygift_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/navce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/navsmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/peraddbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/peraddress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/peraddressbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/receive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/refund.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/return-process-cd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/row1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/row2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/row3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/row4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sale-t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sale-t_clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sale1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sale2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sale3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/scoll1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/scoll2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/songzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/sys_item_selected.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tj1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tj2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/tw7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/wallet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/wangyin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/wdsc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/weixin_code_145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/weizhifu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/zhifubao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/images/图标.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/alipay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/banner4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/chocolate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/cookies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/crab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/duck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/mango.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/meat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/nut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/bigcat/tea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/chocolate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/cookies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/default-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/ep_new_sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/ep_sys_wx_tip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/foodie.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/jianguo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/lobster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/loginpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/luwei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/omg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/registpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/sweet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/tea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/wxpay-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/img/wxpay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/cities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/jquery-1.7.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/jquery.imagezoom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/jquery.qrcode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/moment-with-locales.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-center/userinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-shop/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-shop/js/app.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\work\software\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TdfcQznzplw3OomfzjmMcH1w39" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodie-center" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27701148" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\workspace\myworkspace2\foodie-dev" />
+      <recent name="C:\work\workspace\myworkspace2\foodie-dev\foodie-dev-common\src\main\java" />
+      <recent name="C:\work\workspace\myworkspace2\foodie-dev\foodie-dev-mapper\src\main\java\com\imooc\mapper" />
+      <recent name="C:\work\workspace\myworkspace2\foodie-dev\foodie-dev-pojo\src\main\java\com\imooc\pojo" />
+      <recent name="C:\work\workspace\myworkspace2\foodie-dev\foodie-dev-service\src\main\java\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.foodie-shop">
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.utils.MD5Utils" />
+      <module name="foodie-dev-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.n3r.idworker.Sid" />
+      <module name="foodie-dev-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.n3r.idworker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransTest.myTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="foodie-dev-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TransTest" />
+      <option name="METHOD_NAME" value="myTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="foodie-dev-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="foodie-shop" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/foodie-shop">
+          <settings>
+            <option name="CONTEXT_PATH" value="/foodie_shop" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/foodie-center">
+          <settings>
+            <option name="CONTEXT_PATH" value="/foodie_center" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_foodie-dev" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60532" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MD5Utils" />
+      <item itemvalue="Application.Sid" />
+      <item itemvalue="JUnit.TransTest.myTest" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Tomcat Server.foodie-shop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.Sid" />
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="JUnit.TransTest.myTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3250195c-64fe-4dd1-80ef-6d55c4bc5da5" name="Default Changelist" comment="" />
+      <created>1573794971316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573794971316</updated>
+      <workItem from="1573794973924" duration="1842000" />
+      <workItem from="1573825846723" duration="600000" />
+      <workItem from="1573899818216" duration="12000" />
+      <workItem from="1573900683552" duration="1542000" />
+      <workItem from="1573961094634" duration="3205000" />
+      <workItem from="1574039488840" duration="27000" />
+      <workItem from="1574082020572" duration="1706000" />
+      <workItem from="1574125845605" duration="397000" />
+      <workItem from="1574258227398" duration="63000" />
+      <workItem from="1574298985228" duration="41000" />
+      <workItem from="1574585265992" duration="832000" />
+      <workItem from="1574591323340" duration="11000" />
+      <workItem from="1574592069536" duration="720000" />
+      <workItem from="1574644911894" duration="268000" />
+      <workItem from="1574645190659" duration="62000" />
+      <workItem from="1574663292613" duration="4983000" />
+      <workItem from="1574753885630" duration="6179000" />
+      <workItem from="1574817207082" duration="1050000" />
+      <workItem from="1574818505805" duration="2656000" />
+      <workItem from="1574823491183" duration="17808000" />
+      <workItem from="1574866746486" duration="508000" />
+      <workItem from="1574903959172" duration="2932000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目初始化">
+      <created>1573902692650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573902692650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="springboot集成HikariCP">
+      <created>1573987729383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573987729383</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mybatis反向生成代码">
+      <created>1574125903127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574125903127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="spring事务传播机制">
+      <created>1574645223500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574645223500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="spring事务传播机制">
+      <created>1574826232606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574826232606</updated>
+    </task>
+    <task id="LOCAL-00006" summary="判断用户名是否重复">
+      <created>1574836918020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574836918020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="去除测试">
+      <created>1574837069149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574837069149</updated>
+    </task>
+    <task id="LOCAL-00008" summary="用户注册">
+      <created>1574840503070</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574840503070</updated>
+    </task>
+    <task id="LOCAL-00009" summary="用户注册接口Controller">
+      <created>1574845694784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574845694785</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加swagger配置">
+      <created>1574847937168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574847937169</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="项目初始化" />
+    <MESSAGE value="springboot集成HikariCP" />
+    <MESSAGE value="mybatis反向生成代码" />
+    <MESSAGE value="spring事务传播机制" />
+    <MESSAGE value="判断用户名是否重复" />
+    <MESSAGE value="去除测试" />
+    <MESSAGE value="用户注册" />
+    <MESSAGE value="用户注册接口Controller" />
+    <MESSAGE value="添加swagger配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加swagger配置" />
+  </component>
+</project>
