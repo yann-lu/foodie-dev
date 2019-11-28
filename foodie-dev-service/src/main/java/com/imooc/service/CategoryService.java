@@ -26,6 +26,6 @@ public interface CategoryService {
      * @param rootCatId
      * @return
      */
-    //public List<NewItemsVO> getSixNewItemsLazy(Integer rootCatId);
+    public List<NewItemsVO> getSixNewItemsLazy(Integer rootCatId);
 
 }
