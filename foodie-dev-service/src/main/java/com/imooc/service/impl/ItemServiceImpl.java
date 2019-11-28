@@ -1,10 +1,9 @@
 package com.imooc.service.impl;
 
+import com.imooc.enums.CommentLevel;
 import com.imooc.mapper.*;
-import com.imooc.pojo.Items;
-import com.imooc.pojo.ItemsImg;
-import com.imooc.pojo.ItemsParam;
-import com.imooc.pojo.ItemsSpec;
+import com.imooc.pojo.*;
+import com.imooc.pojo.vo.CommentLevelCountsVO;
 import com.imooc.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -66,7 +65,7 @@ public class ItemServiceImpl implements ItemService {
         return itemsParamMapper.selectOneByExample(itemsParamExp);
     }
 
-   /* @Transactional(propagation = Propagation.SUPPORTS)
+    @Transactional(propagation = Propagation.SUPPORTS)
     @Override
     public CommentLevelCountsVO queryCommentCounts(String itemId) {
         Integer goodCounts = getCommentCounts(itemId, CommentLevel.GOOD.type);
@@ -83,7 +82,7 @@ public class ItemServiceImpl implements ItemService {
         return countsVO;
     }
 
-    @Transactional(propagation = Propagation.SUPPORTS)
+   @Transactional(propagation = Propagation.SUPPORTS)
     Integer getCommentCounts(String itemId, Integer level) {
         ItemsComments condition = new ItemsComments();
         condition.setItemId(itemId);
@@ -93,7 +92,7 @@ public class ItemServiceImpl implements ItemService {
         return itemsCommentsMapper.selectCount(condition);
     }
 
-    @Transactional(propagation = Propagation.SUPPORTS)
+     /*@Transactional(propagation = Propagation.SUPPORTS)
     @Override
     public PagedGridResult queryPagedComments(String itemId,
                                                   Integer level,
