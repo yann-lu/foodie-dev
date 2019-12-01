@@ -58,7 +58,7 @@ public interface ItemService {
      * @param pageSize
      * @return
      */
-    //public PagedGridResult searhItems(String keywords, String sort, Integer page, Integer pageSize);
+    public PagedGridResult searhItems(String keywords, String sort, Integer page, Integer pageSize);
 
     /**
      * 根据分类id搜索商品列表
