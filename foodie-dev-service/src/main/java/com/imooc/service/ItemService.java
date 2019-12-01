@@ -2,6 +2,7 @@ package com.imooc.service;
 
 import com.imooc.pojo.*;
 import com.imooc.pojo.vo.CommentLevelCountsVO;
+import com.imooc.utils.PagedGridResult;
 
 import java.util.List;
 
@@ -47,7 +48,7 @@ public interface ItemService {
      * @param level
      * @return
      */
-    //public PagedGridResult queryPagedComments(String itemId, Integer level, Integer page, Integer pageSize);
+    public PagedGridResult queryPagedComments(String itemId, Integer level, Integer page, Integer pageSize);
 
     /**
      * 搜索商品列表
