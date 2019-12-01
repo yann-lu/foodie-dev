@@ -151,7 +151,7 @@ public class ItemServiceImpl implements ItemService {
         return setterPagedGrid(list, page);
     }
 
-    /*@Transactional(propagation = Propagation.SUPPORTS)
+    @Transactional(propagation = Propagation.SUPPORTS)
     @Override
     public PagedGridResult searhItems(Integer catId, String sort, Integer page, Integer pageSize) {
         Map<String, Object> map = new HashMap<>();
@@ -164,7 +164,7 @@ public class ItemServiceImpl implements ItemService {
         return setterPagedGrid(list, page);
     }
 
-    @Transactional(propagation = Propagation.SUPPORTS)
+   /* @Transactional(propagation = Propagation.SUPPORTS)
     @Override
     public List<ShopcartVO> queryItemsBySpecIds(String specIds) {
 

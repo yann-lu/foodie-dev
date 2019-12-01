@@ -68,7 +68,7 @@ public interface ItemService {
      * @param pageSize
      * @return
      */
-    //public PagedGridResult searhItems(Integer catId, String sort, Integer page, Integer pageSize);
+    public PagedGridResult searhItems(Integer catId, String sort, Integer page, Integer pageSize);
 
     /**
      * 根据规格ids查询最新的购物车中商品数据（用于刷新渲染购物车中的商品数据）
