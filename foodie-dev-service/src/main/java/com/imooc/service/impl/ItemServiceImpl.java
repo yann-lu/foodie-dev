@@ -175,7 +175,7 @@ public class ItemServiceImpl implements ItemService {
         return itemsMapperCustom.queryItemsBySpecIds(specIdsList);
     }
 
-   /* @Transactional(propagation = Propagation.SUPPORTS)
+    @Transactional(propagation = Propagation.SUPPORTS)
     @Override
     public ItemsSpec queryItemSpecById(String specId) {
         return itemsSpecMapper.selectByPrimaryKey(specId);
@@ -217,5 +217,5 @@ public class ItemServiceImpl implements ItemService {
         if (result != 1) {
             throw new RuntimeException("订单创建失败，原因：库存不足!");
         }
-    }*/
+    }
 }

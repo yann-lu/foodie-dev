@@ -83,19 +83,19 @@ public interface ItemService {
      * @param specId
      * @return
      */
-//    public ItemsSpec queryItemSpecById(String specId);
+    public ItemsSpec queryItemSpecById(String specId);
 
     /**
      * 根据商品id获得商品图片主图url
      * @param itemId
      * @return
      */
-    //public String queryItemMainImgById(String itemId);
+    public String queryItemMainImgById(String itemId);
 
     /**
      * 减少库存
      * @param specId
      * @param buyCounts
      */
-    //public void decreaseItemSpecStock(String specId, int buyCounts);
+    public void decreaseItemSpecStock(String specId, int buyCounts);
 }
