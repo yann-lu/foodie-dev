@@ -4,7 +4,6 @@ import com.imooc.controller.BaseController;
 import com.imooc.pojo.Users;
 import com.imooc.pojo.bo.center.CenterUserBO;
 import com.imooc.resource.FileUpload;
-import com.imooc.service.UserService;
 import com.imooc.service.center.CenterUserService;
 import com.imooc.utils.CookieUtils;
 import com.imooc.utils.DateUtil;
